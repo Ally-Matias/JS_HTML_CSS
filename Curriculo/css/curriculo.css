@@ -1,0 +1,68 @@
+body{
+    width: 85%;
+    margin: auto;
+    background-attachment: scroll;
+    background-size: 1535px;
+}
+/*background-image:url(imagens/fundo4.jpg);
+    background-attachment: scroll;
+    background-size: 1520px;*/
+h1{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+p1{
+    line-height: 1.5;
+    font-size: 17px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+h2{
+    font-family: sans-serif;
+}
+p3{
+    line-height: 2;
+    font-size: 17px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-style: italic;
+}
+a:hover{
+    color:red;
+}
+a:active{
+    color:darkorange;
+}
+p{
+    line-height: 1.5;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+ul{
+    font-size: 16px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+li{
+    line-height: 1.5;
+    font-size: 18px;
+}
+img, p{
+    display: inline-block;
+}
+img{ /*mudar uma cor depois*/
+    border: 3.5px solid black;
+}
+p2{
+    line-height: 1.5;
+    font-size: 17px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+/*
+exemplo de como colocar uma imagem a direita ao lado do texto html
+.imagem{
+    float:right
+}*/
