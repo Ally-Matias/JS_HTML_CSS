@@ -4,3 +4,8 @@ Meu portfólio profissional utilizando o Framework Bulma, HTML e CSS. Aqui, eu m
 
 ##
 
+![](https://github.com/Ally-Matias/JS_HTML_CSS/blob/main/Portf%C3%B3lio%20Bulma/imagens/Screenshot%20from%202023-01-14%2018-43-32.png)
+
+##
+
+![](https://github.com/Ally-Matias/JS_HTML_CSS/blob/main/Portf%C3%B3lio%20Bulma/imagens/Screenshot%20from%202023-01-14%2018-43-43.png)
