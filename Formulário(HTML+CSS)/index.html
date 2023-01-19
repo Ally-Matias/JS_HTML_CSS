@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário Simples</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form method="post" action="aaaaa.js" enctype="multipart/form-data">  <!--enctype = converter a ft e enviar-->
+        <fieldset>
+            <label for="teste">
+                <h1 class="signUpTitle">Formulário para a Empresa</h1>
+            </label><br/>
+        </fieldset>
+        <fieldset>
+            <legend>Dados Pessoais</legend>
+            <label for="name">
+                Primeiro Nome:<br/>
+                <input type="text" name="name" required>
+            </label><br/>
+            <label for="lastname">
+                Sobrenome:<br/>
+                <input type="text" name="lastname" required>
+            </label><br/>
+            <label for="email">
+                E-mail:<br/>
+                <input type="email" name="email" required>
+            </label><br/>
+            <label for="date">
+                Data de Nascimento:<br/>
+                <input type="date" name="date" required>
+            </label><br/>
+            <label for="photo">
+                Foto:<br/>
+                <input type="file" name="photo" accept="image/*" required>
+            </label><br/>
+        </fieldset>
+
+        <fieldset>
+            <legend>Dados Profissionais</legend>
+            <label for="companyname">
+                Nome da Empresa:<br/>
+                <input type="text" name="companyname" required>
+            </label><br/>
+            <label for="companytitlejob">
+                Cargo na Empresa:<br/>
+                <input type="text" name="companytitlejob" required>
+            </label><br/>
+        </fieldset>
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>
