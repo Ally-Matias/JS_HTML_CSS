@@ -1,6 +1,6 @@
 # Formulário Simples
 
-Formulário feito usando apenas HTML e CSS.
+Formulário simples pedindo alguns dados. Foi feito usando apenas HTML e CSS.
 
 ##
 
