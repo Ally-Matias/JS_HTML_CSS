@@ -34,6 +34,7 @@ body{
     color: #333333;
     margin-top: 1.25%;
     background-color: #16a085;
+    /*background: linear-gradient(75deg, #FFFFFF, #16a085);*/
 }
 
 input{
