@@ -1,0 +1,76 @@
+/*
+Left: esquerda. right: direita. top: cima.
+bottom: baixo. width: largura. height: altura
+
+cores: 
+verde : #128D2F
+amarelo : #F5DF00
+azul : #1A3493
+verde(nome) : #228D28
+*/
+
+body{
+    background-color: #535151;
+}
+
+.bandeira{
+    width: 685px;
+    height: 514px;
+    background-color: #128D2F;
+    margin-top: 50px;
+    margin-left: 50px;
+    position: absolute;
+}
+
+.losango{
+	left: 50%;
+	transform: translateX(-50%);
+	margin-top: 20px;
+	width: 0px;
+	border-left: 310px solid transparent;
+	border-right: 310px solid transparent;
+	border-bottom: 238.5px solid #F5DF00;
+    position: absolute;
+}
+
+.losango2{
+	left: 50%;
+	transform: translateX(-50%) rotate(180deg);
+	margin-top: 238.5px;
+	width: 0px;
+	border-left: 310px solid transparent;
+	border-right: 310px solid transparent;
+	border-bottom: 238.5px solid #F5DF00;
+    position: absolute;
+}
+
+
+.circulo{
+    width: 290px;
+    height: 290px;
+    background-color: #1A3493;
+    margin-top: 90px;
+    margin-left: -145px;
+    border-radius: 300px;
+    position: absolute;
+}
+
+.faixa{
+	margin-top: 129px;
+	background-color: #fff;
+	width: 290px;
+	height: 40px;	
+    position: absolute;
+}
+
+h1 {
+    transform: rotate(180deg);
+	margin-top: 8px;
+	margin-left: 0px;
+	color: #228D28;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	letter-spacing: 3px;
+    position: absolute;
+}
+
