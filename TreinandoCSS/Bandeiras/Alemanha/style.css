@@ -29,3 +29,15 @@ body{
     width: 800px;
     background-color: #FECE01;
 }
+
+.preto:hover{
+    background-color: #AE1C28;
+}
+
+.vermelho:hover{
+    background-color: #FFFFFF;
+}
+
+.amarelo:hover{
+    background-color: #22468B;
+}
