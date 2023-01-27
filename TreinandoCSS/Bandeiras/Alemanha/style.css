@@ -1,0 +1,31 @@
+/*
+preto: #000000
+vermleho: #DD1D00
+amarelo: #FECE01
+*/
+
+body{
+    background-color: #555353;
+}
+
+.preto{
+    margin-top: 40px;
+    margin-left: 40px;
+    height: 200px;
+    width: 800px;
+    background-color: #000000;
+}
+
+.vermelho{
+    margin-left: 40px;
+    height: 200px;
+    width: 800px;
+    background-color: #DD1D00;
+}
+
+.amarelo{
+    margin-left: 40px;
+    height: 200px;
+    width: 800px;
+    background-color: #FECE01;
+}
